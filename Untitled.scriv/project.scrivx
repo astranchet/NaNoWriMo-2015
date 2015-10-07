@@ -30,7 +30,7 @@
                 </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="25" Created="2010-10-22 19:27:32 +0000" Modified="2010-10-22 19:54:03 +0000" Type="Folder">
+                <BinderItem ID="25" Created="2010-10-22 19:27:32 +0000" Modified="2015-10-07 19:51:28 +0000" Type="Folder">
                     <Title>Part</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -469,6 +469,54 @@
                             </CorkboardAndOutliner>
                         </BinderItem>
                     </Children>
+                </BinderItem>
+                <BinderItem ID="10" Created="2015-10-07 18:05:00 +0000" Modified="2015-10-07 18:17:09 +0000" Type="Text">
+                    <Title>Maladie de Stargardt</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1200,1200</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>No</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="13" Created="2015-10-07 18:19:58 +0000" Modified="2015-10-07 18:20:31 +0000" Type="Text">
+                    <Title>Résumé</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>222,222</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>No</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="14" Created="2015-10-07 18:29:36 +0000" Modified="2015-10-07 19:01:01 +0000" Type="Text">
+                    <Title>Trucs à caser</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1215,1215</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>No</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
                 </BinderItem>
             </Children>
         </BinderItem>
